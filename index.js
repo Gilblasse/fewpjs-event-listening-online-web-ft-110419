@@ -1,7 +1,10 @@
-const input = document.querySelector('input');
+const input = document.getElementById('main');
 
 function addingEventListener() {
+  
   input.addEventListener('click', function(event) {
-    return "clicked"
+    return 'I was clicked!';
   });
 }
+
+addingEventListener()
