@@ -1,4 +1,4 @@
-const input = document.getElementById('main');
+const input = document.querySelector('input');
 
 function addingEventListener() {
   
