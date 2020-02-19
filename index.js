@@ -1,4 +1,4 @@
-function addingEventListener() {
+function addingEventListener(tag) {
   const input = document.getElementById('input');
   
   input.addEventListener('click', function(event) {
