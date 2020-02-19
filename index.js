@@ -6,4 +6,4 @@ function addingEventListener() {
   });
 }
 
-addingEventListener(document.querySelector(''))
+addingEventListener(document.querySelector('#main'))
