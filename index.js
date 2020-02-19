@@ -1,3 +1,3 @@
-function addingEventListener() {
-  
+function addingEventListener(e) {
+  console.log(e)
 }
